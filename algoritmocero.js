@@ -79,3 +79,12 @@
     document.write(`
     <p>la distancia que recorrio juan en milimetros : ${distRecoEnMilimetrosJuan}</p>
     `)
+
+    //problema 6
+
+    var cantDienAjoPicad = 4
+    var barraDeManteca = 1
+    var bagueteCortado = 1
+    var cucharadaSalKosher = 0.5
+    var cucharadaPerejilPicado = 2
+    var tazaQuesoParmeRallado = 1/4
